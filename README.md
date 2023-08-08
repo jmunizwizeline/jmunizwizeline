@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jmunizwizeline
+- 👀 I’m interested in IT Architecture, Cloud Computing and AI
+- 🌱 I’m currently learning Generative AI
+- 📫 How to reach me [Linkedin Profile](https://www.linkedin.com/in/jorgemunizmoran/)
